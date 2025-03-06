@@ -1,4 +1,4 @@
-# Maruthi-Prasanth E-Commerce Data Analysis
+#E-Commerce Data Analysis
 
 ## Table of Contents
 
